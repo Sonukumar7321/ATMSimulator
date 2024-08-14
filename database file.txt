@@ -1,11 +1,3 @@
-------------------
-CODE FOR INTERVIEW
-------------------
-
-Do Subscribe our Youtube channel and Please like the video if you liked it
-Channel: https://www.youtube.com/channel/UCo9P-eIdR00Fn1gA_ylaHdQ
-Project Playlist: https://www.youtube.com/watch?v=pMR_48AF-A0&list=PL_6klLfS1WqG8mRCW5a-bIViq1DbzQkp9
-
 
 ---------------------------------------------------
 Database Queries for BANK MANAGEMENT SYSTEM Project
