@@ -1,15 +1,15 @@
 
 ---------------------------------------------------
-Database Queries for BANK MANAGEMENT SYSTEM Project
+Database Queries for ATM Simulator System
 ---------------------------------------------------
 
-1 - Create database with name bankmanagementsystem in mysql
+1 - Create database with name ATMdata in mysql
 
-create database bankmanagementsystem;
+create database ATMdata;
 
 2 - Select the database you just created
 
-use bankmanagementsystem;
+use ATMdata;
 
 3 - Create our first Table in the selected database with name signup
 
@@ -34,15 +34,4 @@ create table bank(pin varchar(10), date varchar(50), type varchar(20), amount va
 
 If you have any questions, feel free to ping us on Instagram/Telegram
 
-Instagram
-username: codeforinterview
-https://www.instagram.com/codeforinterview
-
-Telegram
-username: codeforinterview
-https://t.me/codeforinterview
-
-
-Code For Interview
-Channel: https://www.youtube.com/channel/UCo9P-eIdR00Fn1gA_ylaHdQ
 
